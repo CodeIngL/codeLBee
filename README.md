@@ -19,7 +19,7 @@ codeLBee是一款快速排查性能和故障的工具集，集成了window，jav
 
 覆盖主流java排查工具，从jdk自带到开源主流工具，附带中文支持
 
-![java排查](https://github.com/CodeIngL/codeLBee/blob/master/1.png)
+![java排查](https://github.com/CodeIngL/codeLBee/blob/master/2.png)
 
 jcmd示例，你还不知道jcmd，大概你活在古老年代
 
